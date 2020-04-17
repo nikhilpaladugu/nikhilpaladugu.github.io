@@ -1,7 +1,7 @@
 /* Basscss Base Typography */
 
 body {
-  font-family: 'Inconsolata', monospace;
+  font-family: $font-family;
   line-height: $line-height;
   font-size: 100%;
 }
@@ -12,7 +12,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Inconsolata', monospace;
+  font-family: $heading-font-family;
   font-weight: $heading-font-weight;
   line-height: $heading-line-height;
   margin-top: 1em;
