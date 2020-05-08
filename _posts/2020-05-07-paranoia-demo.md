@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      paranoia demo
-date:       2020-05-08
+date:       2020-05-07
 summary:    paranoia art
 categories: jekyll pixyll
 ---
