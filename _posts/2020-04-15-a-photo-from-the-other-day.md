@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      a photo from the other day
+title:      test
 date:       2020-04-15
-summary:    a photo
+summary:    test
 categories: jekyll pixyll
 ---
 
-![car](https://i.imgur.com/pAuf9xR.jpg)
+first post?
