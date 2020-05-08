@@ -6,6 +6,6 @@ summary:    have a nice day!
 categories: jekyll pixyll
 ---
 
-![have a nice day!](https://i.imgur.com/egLwfz6.png)
+![have a nice day!](https://i.imgur.com/sAdPwNP.png)
 <br/>
 procreate, photoshop, hp officejet pro 9010, scissors, glue.
