@@ -2,13 +2,12 @@
 title:       (nikhil paladugu)
 email:       n@nikhilpaladugu.com
 author:      Nikhil Paladugu
-description: "the tumblr i never had"
+description: "a blog of sorts"
 baseurl:     ""
 url:         "http://pixyll.com"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
- - contact.html
 
 # Google services
 google_verification:
