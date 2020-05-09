@@ -6,7 +6,7 @@ summary:    paranoia art
 categories: jekyll pixyll
 ---
 
-![paranoia](https://i.imgur.com/zzkRrir.jpg)
+![paranoia](https://i.imgur.com/6E6VYPI.jpg)
 
 photoshop, hp officejet pro 9010, scissors, glue. <br />
 [LEAKTHISEXCLUSIVE (sohza)](https://www.dropbox.com/s/4i1kn7zkt0gx77g/PARANOIA.mp3?dl=0){:target="_blank"}
