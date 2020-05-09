@@ -3,7 +3,7 @@ layout:     post
 title:      paranoia demo
 date:       2020-05-07
 summary:    paranoia art
-categories: 
+categories: jekyll pixyll
 ---
 
 ![paranoia](https://i.imgur.com/zzkRrir.jpg)
