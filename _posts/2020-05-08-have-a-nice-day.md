@@ -7,4 +7,4 @@ categories: jekyll pixyll
 ---
 ![have a nice day!](https://i.imgur.com/OMBoqx0.png)
 
-procreate, photoshop, printer, scissors, glue.
+procreate, photoshop, printer, scissors, glue, pen.
