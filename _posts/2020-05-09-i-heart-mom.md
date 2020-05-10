@@ -7,4 +7,4 @@ categories: jekyll pixyll
 ---
 ![i <3 mom](https://i.imgur.com/mwcZZKz.png)
 
-mother's day 2020. photoshop, printer, scissors, glue.
+mother's day card 2020. photoshop, printer, scissors, glue.
