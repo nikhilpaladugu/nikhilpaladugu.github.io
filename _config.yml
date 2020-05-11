@@ -3,8 +3,8 @@ title:       (nikhil paladugu)
 email:       n@nikhilpaladugu.com
 author:      Nikhil Paladugu
 description: "a blog of sorts"
-baseurl:     ""
-url:         "http://pixyll.com"
+baseurl:     "/nikhil"
+url:         "http://nikhilpaladugu.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
