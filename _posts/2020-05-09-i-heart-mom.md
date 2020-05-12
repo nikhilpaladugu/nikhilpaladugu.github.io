@@ -3,7 +3,7 @@ layout:     post
 title:      i <3 amma
 date:       2020-05-09
 summary:    mother's day 2020
-categories: jekyll pixyll
+categories: graphic
 ---
 ![i <3 mom](https://i.imgur.com/mwcZZKz.png)
 
