@@ -123,8 +123,8 @@ $nav-color: $mid-gray;
 $nav-link-color: #444;
 $nav-padding: $space-2;
 $nav-link-padding-x: $space-2;
-$nav-link-border-bottom: 1px solid #444;
-$nav-active-border-bottom: 1px solid $light-gray;
+$nav-link-border-bottom: 0px solid #444;
+$nav-active-border-bottom: 0px solid $light-gray;
 
 // Footer
 $footer-border-top: thin solid #f3f3f3;
