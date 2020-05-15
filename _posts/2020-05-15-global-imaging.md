@@ -8,4 +8,4 @@ categories: graphic
 
 ![global imaging](https://i.imgur.com/IYgjTzX.jpg)
 
-photoshop. a imaginary company graphic intended for the back of a t-shirt.
+photoshop. an imaginary company graphic intended for the back of a t-shirt.
