@@ -1,0 +1,11 @@
+---
+layout:     post
+title:      global imaging
+date:       2020-05-15
+summary:    random thought
+categories: graphic
+---
+
+![global imaging](https://i.imgur.com/IYgjTzX.jpg)
+
+photoshop. a imaginary company graphic intended for the back of a t-shirt.
