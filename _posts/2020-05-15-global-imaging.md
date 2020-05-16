@@ -8,4 +8,4 @@ categories: graphic
 
 ![global imaging](https://i.imgur.com/IYgjTzX.jpg)
 
-photoshop. an imaginary company graphic, intended for the back of a t-shirt. this was mostly just to using comic sans in something haha
+photoshop. an imaginary company graphic, intended for the back of a t-shirt. this was mostly just to use comic sans in something haha
