@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      taylor swift
+title:      all day
 date:       2020-05-18
-summary:    taylor swift
+summary:    all day
 categories: post
 ---
 
-<https://www.youtube.com/watch?v=_ABk7TmjnVk> this my favorite stuff, people who are in places they aren't supposed to be. especially taylor swift ha
+<https://streamable.com/tfwr6> my favorite music video
