@@ -9,7 +9,6 @@
   font-size: $h3;
   font-weight: $header-font-weight;
   background-image: none;
-  border-bottom: thin solid #f3f3f3;
 }
 
 .site-header .site-title {
@@ -52,6 +51,7 @@
 
 .site-header {
   text-align: center;
+  border-bottom: thin solid #f3f3f3;
 }
 
 .site-header .site-nav {
