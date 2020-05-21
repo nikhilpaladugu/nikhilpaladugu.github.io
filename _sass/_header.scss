@@ -1,8 +1,9 @@
 .site-header {
   padding-top: $space-1;
   padding-bottom: $space-2;
-  border-bottom: thin solid #f3f3f3;
+  (max-width:1000px) {border-bottom: thin solid #f3f3f3;}
 }
+
 
 .site-header a {
   color: $header-color;
