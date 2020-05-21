@@ -6,4 +6,4 @@ summary:    all day
 categories: post
 ---
 
-<https://streamable.com/tfwr6> my favorite music video
+<https://streamable.com/tfwr6>{:target="_blank"} my favorite music video
