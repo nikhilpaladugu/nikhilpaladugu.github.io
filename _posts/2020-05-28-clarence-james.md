@@ -6,6 +6,6 @@ summary:    merch
 categories: graphic
 ---
 
-![clarence james](https://i.imgur.com/G83G9Ac.png)
+![clarence james](https://i.imgur.com/aUD7gsV.png)
 
 made vectors from sketches using procreate. 
