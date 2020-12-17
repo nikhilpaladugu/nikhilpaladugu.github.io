@@ -6,4 +6,4 @@ summary:    idk
 categories: text
 ---
 
-corp america is kinda fuckin nuts
+corporate america is fuckin nuts
