@@ -6,4 +6,4 @@ summary:    idk
 categories: text
 ---
 
-corporate america is fuckin nuts
+corporate america is fuckin nuts. I feel so alien
