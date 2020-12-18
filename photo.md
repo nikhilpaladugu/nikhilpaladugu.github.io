@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about
+title: photo
 permalink: /about/
 tags: about
 ---
