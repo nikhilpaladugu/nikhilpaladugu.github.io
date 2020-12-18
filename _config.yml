@@ -1,10 +1,10 @@
 # Site settings
 title:       (nikhil paladugu)
-email:       n@nikhilpaladugu.com
+email:       nikhilpaladugu129@gmail.com
 author:      Nikhil Paladugu
 description: "ideas"
 baseurl:     ""
-url:         "http://nikhilpaladugu.github.io"
+url:         "http://nikhilpaladugu.com"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
