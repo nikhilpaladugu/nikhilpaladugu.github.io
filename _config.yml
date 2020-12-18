@@ -7,7 +7,9 @@ baseurl:     ""
 url:         "http://nikhilpaladugu.com"
 date_format: "%b %-d, %Y"
 header_pages:
- - about.md
+ - graphic.md
+ - photo.md
+ - thoughts.md
 
 # Google services
 google_verification:
