@@ -1,0 +1,19 @@
+{% if page.layout == 'amp' %}
+		<p>どうしてこうなるんだろう…</p>
+	{% else %}
+		<script type='text/javascript'>
+			fortune = new Array(9);
+			fortune[0] = 'love you';
+			fortune[1] = 'hope youre having an okay day';
+			fortune[2] = 'itll probably get better';
+			fortune[3] = 'bet on yourself';
+			fortune[4] = 'ill never find true love cause i dont like skinny jeans';
+			fortune[5] = 'when was the last time you called your mom';
+			fortune[6] = 'email me your favorite movie';
+			fortune[7] = 'stay safe';
+			fortune[8] = 'thanks for making it down here';
+			index = Math.floor(Math.random() * fortune.length);
+			document.write(fortune[index]);
+		</script>
+		<noscript>どうしてこうなるんだろう…</noscript>
+	{% endif %}
