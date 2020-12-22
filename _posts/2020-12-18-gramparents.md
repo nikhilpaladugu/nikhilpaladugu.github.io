@@ -6,6 +6,6 @@ summary:    gramparents
 categories: graphic
 ---
 
-![old](https://i.imgur.com/LUNID8Z.jpg)
+![old](https://i.imgur.com/l0zOvEX.jpg)
 
 grandparents looking at art. permenant marker on paper. needa get better at drawing this next year.
